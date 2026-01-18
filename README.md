@@ -33,8 +33,8 @@ Notion을 CMS로 활용한 개인 독서 기록 및 리뷰 공유 웹사이트�
 1. 저장소 클론
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/notion-cms-project.git
-cd notion-cms-project
+git clone https://github.com/kwangwonlee/my-notion-blog-prd.git
+cd my-notion-blog-prd
 ```
 
 2. 의존성 설치
